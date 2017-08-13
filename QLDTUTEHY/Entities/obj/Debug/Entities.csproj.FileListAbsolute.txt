@@ -1,0 +1,54 @@
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+D:\ss\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+D:\ss\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+D:\ss\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\ss\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+D:\ss\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+E:\Project 4\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+E:\Project 4\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+E:\Project 4\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+E:\Project 4\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+D:\ProJect\P46\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+D:\ProJect\P46\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+D:\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+D:\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\Entities\bin\Debug\Entities.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\Entities\bin\Debug\Entities.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\Entities\obj\Debug\Entities.pdb

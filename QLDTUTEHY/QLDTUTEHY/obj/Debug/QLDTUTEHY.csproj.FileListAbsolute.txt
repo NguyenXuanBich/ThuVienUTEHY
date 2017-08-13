@@ -1,0 +1,70 @@
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.dll.config
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.pdb
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\AspNet.ScriptManager.jQuery.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.AspNet.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.Core.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.SqlServer.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.Web.Infrastructure.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.WebRequest.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Web.Providers.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.WebRequest.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.SqlServer.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Web.Providers.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.Core.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.AspNet.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.csprojResolveAssemblyReference.cache
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.dll
+E:\Do_An\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.dll.config
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\QLDTUTEHY.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\AspNet.ScriptManager.jQuery.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.AspNet.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.Core.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.SqlServer.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.Web.Infrastructure.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.WebRequest.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Web.Providers.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Net.Http.WebRequest.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\EntityFramework.SqlServer.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\System.Web.Providers.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.Core.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\DotNetOpenAuth.AspNet.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.csprojResolveAssemblyReference.cache
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\QLDTUTEHY\obj\Debug\QLDTUTEHY.pdb

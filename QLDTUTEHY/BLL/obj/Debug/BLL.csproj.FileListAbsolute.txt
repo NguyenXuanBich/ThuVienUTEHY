@@ -1,0 +1,102 @@
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+E:\My Doc\Project\QLDTUTEHY\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\hienv\Desktop\New folder\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Edward\Desktop\My project\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Edward\Desktop\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Pizz\Desktop\project\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Edward\Desktop\Project\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\cauut\Desktop\DoAn\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Edward\Desktop\Project - Copy\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+E:\Project 4\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+E:\Project 4\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Project 4\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+E:\Project 4\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+C:\Users\Pizz\Desktop\Project4\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+D:\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+D:\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+D:\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\BLL.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\BLL.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\DAL.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\Entities.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\DAL.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\bin\Debug\Entities.pdb
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.dll
+E:\Documents\Năm 1,2,3\ProJect\P46\QLDTUTEHY\BLL\obj\Debug\BLL.pdb

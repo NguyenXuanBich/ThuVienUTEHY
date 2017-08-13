@@ -1,0 +1,193 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NguoiDung.master.cs" Inherits="QLDTUTEHY.NguoiDung" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="Content/Paging.css" rel="stylesheet" />
+    <!-- Bootstrap core CSS -->
+
+    <link href="Teamplate/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="Teamplate/fonts/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="Teamplate/css/animate.min.css" rel="stylesheet" />
+
+    <!-- Custom styling plus plugins -->
+    <link href="Teamplate/css/custom.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="Teamplate/css/maps/jquery-jvectormap-2.0.3.css" />
+    <link href="Teamplate/css/icheck/flat/green.css" rel="stylesheet" />
+    <link href="Teamplate/css/floatexamples.css" rel="stylesheet" type="text/css" />
+
+    <script src="Teamplate/js/jquery.min.js"></script>
+    <script src="Teamplate/js/nprogress.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="nav-md">
+
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="index.html" class="site_title"><i class="fa fa-paw"></i><span>Trang quản trị</span></a>
+                    </div>
+                    <div class="clearfix"></div>
+
+                    <!-- menu prile quick info -->
+                    <div class="profile">
+                        <div class="profile_pic">
+
+                            <img src="Images/13055504_1019452251481486_1590489457751735921_n.jpg" alt="..." class="img-circle profile_img" runat="server" />
+                        </div>
+                        <div class="profile_info">
+                            <span>Welcome,</span>
+                            <h2>ADMIN</h2>
+                        </div>
+                    </div>
+                    <!-- /menu prile quick info -->
+
+                    <br />
+
+                    <!-- sidebar menu -->
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+
+                        <div class="menu_section">
+                            <h3>General</h3>
+                            <ul class="nav side-menu">
+                                <li><a href="ChiTietNguoiDung.aspx"><i class="fa fa-book"></i>Thông tin cá nhân<span class="fa"></span></a>
+                                </li>
+                                <li><a href="TimSach.aspx"><i class="fa fa-home"></i>Tìm kiếm sách<span class="fa"></span></a>
+                                </li>
+                                <li><a href="QLThongTinChung.aspx"><i class="fa fa-home"></i>Danh sách sách nợ<span class="fa"></span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /sidebar menu -->
+
+                    <!-- /menu footer buttons -->
+                    <div class="sidebar-footer hidden-small">
+                        <a data-toggle="tooltip" data-placement="top" title="Settings">
+                            <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                        </a>
+                        <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                            <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+                        </a>
+                        <a data-toggle="tooltip" data-placement="top" title="Lock">
+                            <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+                        </a>
+                        <a data-toggle="tooltip" data-placement="top" title="Logout">
+                            <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+                        </a>
+                    </div>
+                    <!-- /menu footer buttons -->
+                </div>
+            </div>
+
+            <!-- top navigation -->
+            <div class="top_nav">
+
+                <div class="nav_menu">
+                    <nav class="" role="navigation">
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="">
+                                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                    <img src="Images/13055504_1019452251481486_1590489457751735921_n.jpg" alt="" />ADMIN
+                 
+                                    <span class=" fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right">
+                                    <li><a href="javascript:;">Hồ sơ</a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <span class="badge bg-red pull-right">50%</span>
+                                            <span>Cài đặt</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;">Trợ giúp</a>
+                                    </li>
+                                    <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i>Đăng xuất</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+
+            </div>
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col" role="main">
+                <form class="form-horizontal form-label-left frmmain" novalidate="novalidate" runat="server" id="frm">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </form>
+            </div>
+            <!-- /page content -->
+        </div>
+    </div>
+    <div id="custom_notifications" class="custom-notifications dsp_none">
+        <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group">
+        </ul>
+        <div class="clearfix"></div>
+        <div id="notif-group" class="tabbed_notifications"></div>
+    </div>
+
+    <script src="Teamplate/js/bootstrap.min.js"></script>
+
+    <!-- gauge js -->
+
+    <!-- bootstrap progress js -->
+    <script src="Teamplate/js/progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="Teamplate/js/nicescroll/jquery.nicescroll.min.js"></script>
+    <!-- icheck -->
+    <script src="Teamplate/js/icheck/icheck.min.js"></script>
+    <!-- daterangepicker -->
+    <script type="text/javascript" src="Teamplate/js/moment/moment.min.js"></script>
+    <script type="text/javascript" src="Teamplate/js/datepicker/daterangepicker.js"></script>
+    <!-- chart js -->
+
+
+    <script src="Teamplate/js/custom.js"></script>
+
+    <!-- flot js -->
+    <!--[if lte IE 8]><script type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
+
+
+
+
+    <!-- pace -->
+
+    <script>
+     
+    </script>
+    <!-- skycons -->
+
+
+    <!-- dashbord linegraph -->
+    <script>
+ 
+    </script>
+    <!-- /dashbord linegraph -->
+    <!-- datepicker -->
+
+    <!-- /datepicker -->
+    <!-- /footer content -->
+</body>
+</html>
